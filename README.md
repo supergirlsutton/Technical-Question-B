@@ -3,8 +3,6 @@ Use: https://developer.twitter.com/en/docs/tweets/search/guides/standard-operato
 
 Install pip: https://pip.pypa.io/en/stable/installing/
 
-Use: https://rubygems.org/pages/download to download RubyGems HOWEVER, if using Mac use homebrew+rvm to override Mac's in-built Ruby installed version and after this the RubyGems install should work (you may need sudo throughout).
-
 Use: https://tweepy.readthedocs.io/en/latest/getting_started.html as an API wrapper and to download some necessary dependancies (included in the requirements.txt file such as requests library for Python).
 
 Ensure to create a .env file to store your access keys and store the .env file in .gitignore.
